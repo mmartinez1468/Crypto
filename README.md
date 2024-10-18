@@ -1,0 +1,1 @@
+An application that tracks the most popular Crypto in the market with real time accurate prices and rise or fall percentages. Paired with an easy to understand and beautiful interface to help those in the Crypto scene to decide and predict the most optimal coins to invest in. (currently in progress)
